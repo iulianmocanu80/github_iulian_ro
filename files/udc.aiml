@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
-    <!-- As fi vrut ca -->
+    <!-- As fi vrut ca prima data sa apara un mesaj catre utilizator-->
     <date format="%B %d, %Y"/>
     <category>
 <template>Bine ai venit!!!</template>

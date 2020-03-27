@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <!-- As fi vrut ca -->
+    <date format="%B %d, %Y"/>
+    <category>
+<template>Bine ai venit!!!</template>
+</category>
+    <category>
+        <pattern>*</pattern>
+        <template><star/>
+        <br></br>Iti pot pune la dispozitie horoscopul zilnic:
+        <br></br>1 Berbec
+        <br></br>2 Taur
+        <br></br>3 Gemeni
+        <br></br>4 Rac
+        <br></br>5 Leu
+        <br></br>6 Fecioara
+        <br></br>7 Balanta
+        <br></br>8 Scorpion
+        <br></br>9 Sagetator
+        <br></br>10 Capricorn
+        <br></br>11 Varsator
+        <br></br>12 Pesti
+        <br></br>| 0722169597
+        <br></br>| contact@email.ro
+        <link>
+            <text>Informatii utile</text>
+            <url>https://www.stiripesurse.ro/</url>
+        </link>
+        </template>
+    </category>
+    
+<category>
+<pattern>Numele meu este *</pattern>
+<template>Incantat de cunostinta, <set name="name"><star/></set>.
+<br></br>Eu sunt robotul CyberBot
+<br></br>sunt din Constanta, Romania</template>
+</category>
+    <category> 
+     <pattern>1</pattern>
+        <template>Berbec: Este ziua cadourilor si recompenselor pentru tine. Daca asteptai demult o plata, acum se pare ca va veni si chiar cu dobanda. Se pot pune in discutie imbunatatirea conditiilor de la locul de munca sau cresterea salariului. Se anunta schimbari majore la capitolul financiar si bine ar fi sa fii pregatit si prudent.
+In a doua parte a zilei energia vitala va fi la cote joase, asa incat ocupa-te de treburile usoare si odihneste-te mai mult.</template>
+    </category>
+    
+    <category>
+      <pattern>2</pattern>
+    <template>Taur: Beneficiezi de o energie astrala deosebita si recomandabil este sa o folosesti doar pentru sufletul tau. Sunt momente bune de a te ocupa pe indelete de intretinerea corpului si de imbunatatirea starii tale de spirit.
+Programeaza-ti o sesiune de infrumusetare sau propune-ti sa parcurgi cursuri de dezvoltare personala. Daca apar neplaceri in relatiile cu ceilalti, dialogul amiabil este calea cea mai buna de lamurire a neintelegerilor.    </template>
+    </category>
+    
+    <category>
+    <pattern>3</pattern>
+    <template>Gemeni: Astrele te sfatuiesc sa fii cat mai discret. Sunt momente bune pentru a sta de vorba doar cu tine insuti.
+Sanatatea este in continuare vulnerabila. Evita consultatiile, analizele medicale si interventiile chirurgicale, pe cat posibil.
+S-ar putea sa descoperi conflicte mocnite la serviciu. Selecteaza cu atentie pe cine mai pastrezi in preajma ta. Traseaza-ti noi planuri de viata si urmeaza-le intocmai.</template>
+    </category>
+    <category>
+    <pattern>4</pattern>
+    <template>Rac: Prietenii si protectorii sunt subiectul principal de astazi. Unele relatii se pot incheia. Pe de alta parte, fii atent la sfaturile si indemnurile primite din partea celorlalti. Chiar daca unele nu iti sunt pe plac, este bine sa le retii, deoarece la momentul potrivit le vei folosi.
+Discerne atent cine iti este prieten si cine se preface. Relatia cu persoana iubita este destul de tensionata, asa incat acorda timp pentru imbunatatirea situatiei. </template>
+    </category>
+        <category>
+    <pattern>5</pattern>
+    <template>Leu: Se pare ca vin evenimente importante la capitolul cariera. Un sef iti poate oferi un post de conducere. Dar exista si posibilitatea demiterii dintr-o functie inalta. Fii pregatit pentru orice situatie si ai incredere ca totul este in favoarea ta.
+Familia iti solicita aportul, insa ai tendinta de a o refuza. Gasirea echilibrului dintre indatoririle sociale si cele familiale este provocarea acestei perioade.</template>
+    </category>
+    <category>
+    <pattern>6</pattern>
+    <template>Fecioara: Relatiile cu strainatatea iti vor capta atentia si eforturile. Poti primi vesti de la cineva aflat departe de tara sau poti face demersurile necesare unei calatorii. Chiar daca lucrurile nu se rezolva asa cum vrei tu, la momentul potrivit totul se va lamuri.
+Altii se pot ocupa de studii pe termen lung. Sunt vizate examenele, interviurile sau chestiunile ce privesc finalizarea sau inceperea unei forme superioare de scolarizare.</template>
+    </category>
+    
+    <category>
+    <pattern>7</pattern>
+    <template>Balanta: Este o zi potrivita cumparaturilor, dar si achitarii datoriilor de orice fel. Tot ce tine de demersuri financiare ar trebui sa intre in sfera ta de interes. Unii se pot ocupa cu succes de actele specifice mostenirilor sau partajelor unui divort.
+Se recomanda prudenta si discernamant, intrucat se anunta evenimente importante la capitolul financiar. Spre seara, detaseaza-te de problemele cotidiene.
+ </template>
+    </category>
+    
+        <category>
+    <pattern>8</pattern>
+    <template>Scorpion: Subiectele principale ale zilei sunt relatiile parteneriale si colaborarile. Sunt posibile discutii aprinse cu partenerul de viata. Evita combativitatea si fii mai intelegator.
+O relatie veche se poate sfarsi sau poate aparea in preajma ta o persoana interesata sa colaboreze cu tine. Beneficiezi de multa energie si idei bune, asa incat pune-ti ordine in toate tipurile de relatii. </template>
+    </category>
+    
+        <category>
+    <pattern>9</pattern>
+    <template>Sagetator: Relatiile colegiale sunt tensionate, asa incat recomandabil este sa te bazezi doar pe fortele tale. Evita provocarile si ocupa-te doar de treburile tale. Sfatul astrelor este sa-ti schimbi atitudinea fata de munca si implicatiile ei.
+Chiar daca apar si neplaceri, vei reusi sa depasesti totul cu bine. Sanatatea este vulnerabila. Foloseste doar remedii naturiste si odihneste-te mai mult.
+ </template>
+    </category>
+    
+        <category>
+    <pattern>10</pattern>
+    <template>Capricorn: Distractia si voia buna iti deschid saptamana. Este o zi potrivita de a te ocupa de un hobby. Relatia cu persoana iubita este tensionata, dar cu prudenta vei reusi sa aduci lucrurile pe fagasul cel bun.
+Copiii si problemele lor sunt un alt subiect favorit de astazi. O discutie cu un prieten te-ar putea pune pe ganduri. Selecteaza vestile pe care le afli si evita concluziile de moment. </template>
+    </category>
+    
+        <category>
+    <pattern>11</pattern>
+    <template>Varsator: Casa si activitatile ei sunt bine sustinute de astre. Curateniile generale, reparatiile curente sau reamenajarile interioare le poti face mai usor. Membrii familiei iti sunt alaturi. Chiar daca exista si discutii contradictorii, se poate cadea la pace.
+Totusi, ceva se va schimba in zona casei si a relatiilor cu familia. Atentia ta este indreptata mai mult spre cariera, ceea ce ii poate nemultumi pe cei dragi. Gaseste un echilibru intre viata privata si cea sociala. </template>
+    </category>
+    
+        <category>
+    <pattern>12</pattern>
+    <template>Pesti: Inceputul saptamanii te-ar putea pune pe drumuri. Daca esti nevoit sa calatoresti, fii prudent si verifica atent toate detaliile aferente. Si studiile intra in sfera ta de interes. Sunt favorizate examenele, interviurile sau demersurile pentru finalizarea sau inceperea unor cursuri planificate mai demult.
+Spre seara, dialogurile cu cei apropiati iti pot oferi momente placute si vesti interesante. </template>
+    </category>
+    
+    <category>
+        <pattern>?</pattern>
+        <template>Daca vrei sa ma intrebi ceva, te rog ...curaj</template>
+    </category>
+
+<category>
+    <pattern>!</pattern>
+    <template>Daca vrei sa imi spuii ceva, te rog ...curaj</template>
+</category>
+<category>
+    <pattern>* cine *</pattern>
+    <template>Salut, vorbesti cu robotul ROBLOcK </template>
+</category>
+
+<category>
+    <pattern>Buna ^</pattern>
+    <template>robotul ROBLOcK te saluta</template>
+</category>
+<category>
+    <pattern>ce faci</pattern>
+    <template>Sunt robotul ROBLOcK ... bine</template>
+</category>
+<category>
+    <pattern>Salut *</pattern>
+    <template>robotul ROBLOcK te saluta</template>
+</category>
+
+<category>
+    <pattern>La revedere</pattern>
+    <template>robotul ROBLOcK iti spune la revedere</template>
+</category>
+<category>
+    <pattern>Pa *</pattern>
+    <template>robotul ROBLOcK iti spune pa</template>
+</category>
+<category>
+    <pattern>Hy *</pattern>
+    <template>My name is ROBLOcK, romanian language please </template>
+</category>
+<category>
+    <pattern>Hi *</pattern>
+    <template>My name is ROBLOcK, romanian language please </template>
+</category>
+<category>
+    <pattern>ola *</pattern>
+    <template>My name is ROBLOcK, romanian language please </template>
+</category>
+</aiml>
